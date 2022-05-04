@@ -37,10 +37,9 @@ The bot is now created and can be accessable by the users from anywhere. But we 
 
 Follow the code form `./src/bot.py` file to understand how the telegram api's, get and post command works.
 
-## Authors ##
-- [@BALAJI24092001](https://www.github.com/BALAJI24092001)
+## Author ##
 - [@gbgchakradhar](https://github.com/gbgchakradhar)
-- [@abhiramavala](https://github.com/abhiramavala)
+
 
 ## License ##
 
