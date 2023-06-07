@@ -175,13 +175,11 @@ PS: The episode and season commands give you two ways to access the series. One,
        Hey there! 
        We are the biggest fans of the sitcom F.R.I.E.N.D.S, so we wanted to make this available for all people so they can access it easily.
         For any suggestions or complaints to report contact
-        @dbalajivaraprasad
         @CHAKRADHAR_GBG
-        @abhiramavala
         '''
         send = requests.post(url+'sendMessage?chat_id=' + str(chat_id)+'&text='+reply)
 
-    # BALAJI
+   
     elif message == 'friends':
         reply = '''
 Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons.
@@ -205,7 +203,7 @@ Episodes: 236
     '''
         send = requests.post(url+'sendMessage?chat_id=' + str(chat_id)+'&text='+reply)
 
-    # BALAJI
+ 
 
     elif message in dict1.keys():
         reply1 = 'For Downloading 👇'
