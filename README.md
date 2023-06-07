@@ -44,7 +44,7 @@ Follow the code form `./src/bot.py` file to understand how the telegram api's, g
 ## License ##
 
 <a href="https://github.com/BALAJI24092001/TelegramBot/blob/main/LICENSE"><p style="text-align:center">MIT License</p></a>
-<p style="text-align:center">Copyright (c) 2021 BALAJI VARA PRASAD </p>
+<p style="text-align:center">Copyright (c) 2021 CHAKRADHAR G </p>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
